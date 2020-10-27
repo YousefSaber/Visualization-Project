@@ -1,0 +1,1 @@
+ipython nbconvert explanatory\ analysis.ipynb --to slides --template output_toggle --post serve

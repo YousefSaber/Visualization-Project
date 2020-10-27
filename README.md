@@ -1,7 +1,7 @@
 # Visualization Project
 
 * This project focuses on Data Visualizations
-* Our Original Data are in the `201902-fordgobike-tripdata.csv`, this data contain info about bikesharing system.
+* Our Original Data are in the [`201902-fordgobike-tripdata.csv`](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv), from the **official Udacity** Visualisation Project this data contain info about bikesharing system.
 * Our project is divided into two steps:
     * exploratory visualizations in `exploration_template.ipynb`.
     * explanatory visualizations in `explanatory analysis.ipynb`.
@@ -14,7 +14,7 @@
 * The amount of users who share all their trip vs who do not.
 ***
 ## Key Insights
-* When are most trips taken in terms of time of day, day of the week, or month of the year?
+* When are most trips taken in terms of time of day, day of the week?
 * How long does the average trip take?
 * Does the above depend on if a user is a subscriber or customer?
 * The amount of our Customer vs Subscriber bikers users.
