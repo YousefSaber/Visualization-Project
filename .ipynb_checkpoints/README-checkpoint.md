@@ -14,8 +14,9 @@
 * The amount of users who share all their trip vs who do not.
 ***
 ## Key Insights
-* When are most trips taken in terms of time of day, day of the week?
-* How long does the average trip take?
-* Does the above depend on if a user is a subscriber or customer?
+* The most trips taken in terms of time of day, day of the week.
+* The average trip time in sec.
+* We must consider and pay respect to the user type while performing the above analysis.
 * The amount of our Customer vs Subscriber bikers users.
+* The most starting locations by their (longitude and latitude)
 ***
