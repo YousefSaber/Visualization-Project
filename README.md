@@ -5,7 +5,7 @@
 * Our project is divided into two steps:
     * exploratory visualizations in `exploration_template.ipynb`.
     * explanatory visualizations in `explanatory analysis.ipynb`.
-* If you can't render `.ipynb` you can always open the `.HTML` format of the files in `exploration_template.html`,`explanatory analysis.html`.
+* If you can't render `.ipynb` you can always open the `.HTML` format of the files in `exploration_template.html`,`explanatory analysis.html`, make sure to download the `HTML` files on your local computer before opening them in browsers.
 ***
 ## Summary Of Findings
 * The most used bike according to its ID.
